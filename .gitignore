@@ -1,0 +1,4 @@
+/config/*.py
+/.venv/
+/.idea/
+!/config/*_template.py
