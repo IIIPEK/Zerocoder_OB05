@@ -61,4 +61,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Pygame](https://www.pygame.org/) for the game development library.
 
 Enjoy the game!
-
